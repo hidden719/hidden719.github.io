@@ -6,9 +6,10 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+Hi! I'm Adam(KyungPyo) Ham.
 
+I recently finished my Master's degree in Ajou University and getting started with my journey as ai research engineer. I love having chat with people.
+</p>
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+Contact me if you want to know more about me :)
 </p>

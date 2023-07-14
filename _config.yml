@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome! This is Adam_Ham's Page:)
 baseurl: "" # the subpath of the site
 url: "https://hidden719.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpeg
+og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
 header:
