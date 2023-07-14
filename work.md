@@ -3,16 +3,21 @@ layout: Research
 title: Research
 slug: /Research
 items:
-  - title: My Interest 1
+  - title: Few-shot learning on text clasification
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
+    description: Toy project from Natural Langauge Processing class. Applied siamese network, prototypical network on Dataset(). Code in (github repo)
+  - title: DQN with
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: Toy project from Reinforcement Learning class. Applied DQN() using Gymnasium cartpole..
+  - title: Deep Learning with music data
+    image:
+      src: /assets/img/work/sand.png
+      alt: sand
+    description: Toy project from () class. Reference ()..
 ---
 
 
