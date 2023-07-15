@@ -13,3 +13,13 @@ I recently completed my Master's degree at Ajou University and am now beginning 
 <p>
 Contact me if you want to know more about my research or more about me :)
 </p>
+
+---
+<div align="center">
+
+## <span style="font-size: 24px;">Education</span>
+
+</div>
+
+---
+
