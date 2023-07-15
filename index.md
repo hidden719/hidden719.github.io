@@ -25,15 +25,15 @@ Contact me if you want to know more about my research or more about me :)
 
 <span style="font-size: 24px;">Education</span>
 ---
-AjouUniversity, Suwon, South Korea (Sep 2020 - Aug 2023)
-Master's in Artificial Intelligence
-AjouUniversity, Suwon, South Korea (Mar 2020 - Aug 2020)
-Internship in Datascience
-AjouUniversity, Suwon, South Korea (Mar 2012 - Feb 2020)
-Bachelor in Software(Computer Science)
 
 </div>
-
+<p align="center">
+AjouUniversity, Suwon, South Korea (Sep 2020 - Aug 2023)  
+Master's in Artificial Intelligence  
+AjouUniversity, Suwon, South Korea (Mar 2020 - Aug 2020)  
+Internship in Datascience  
+AjouUniversity, Suwon, South Korea (Mar 2012 - Feb 2020)  
+Bachelor in Software(Computer Science)  
 ---
 
 <div align="center">
@@ -42,6 +42,8 @@ Bachelor in Software(Computer Science)
 ---
 Towards accurate and ceratin Molecular Property Prediction(published in ICTC 2022)
 - KP Ham, Jeong noh Yonn, Sael Lee
+[Link](https://ieeexplore.ieee.org/abstract/document/9952716)
+
 Evidential Meta-Learning for Molecular Property Prediction(Submitted to Journal Biochemistry:Currently Under Review)
 - KP Ham, Sael Lee
 
