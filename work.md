@@ -1,7 +1,7 @@
 ---
 layout: work
-title: Research
-slug: /Research
+title: Projects
+slug: /Projects
 items:
   - title: Few-shot learning on text clasification
     image:
