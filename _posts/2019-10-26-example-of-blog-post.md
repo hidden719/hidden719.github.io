@@ -1,8 +1,8 @@
 ---
-layout: default
-title:  "Archive"
-date:   2023-07-16 16:00:00
-blurb: "Study Archive"
+layout: post
+title:  Archive
+date: 2023-07-16 16:00:00
+blurb: Study Archive
 site_url : https://ultra-pharaoh-74e.notion.site/14d189ba10a74bc9839b730026195bd5?v=5be1bc4c6fc043bf9c8f092484472cde
 #og_image: #/assets/img/content/post-example/Banner.jpg
 ---
