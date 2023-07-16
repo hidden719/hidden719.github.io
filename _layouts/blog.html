@@ -16,9 +16,7 @@
 
               {% if post.draft != true %}
                 <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
-                <a href="{% if post.site_url %}{{ post.site_url }}{% else %}{{ post.url | replace:".html","" | prepend: site.baseurl }}{% endif %}" class="blog-post-title">
-                  {{ post.title }}
-                
+                <a href="{{ post.site_url }}" class="blog-post-title">{{ post.title }}
                 </a>
                 <!-- <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">
                 </a> -->
@@ -27,7 +25,7 @@
               {% endif %}
 
             {% endfor %}
-              </div>
+            </div>
         </div>
       </div>
     </div>
