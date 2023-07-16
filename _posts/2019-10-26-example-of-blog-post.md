@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Archive"
 date:   2023-07-16 16:00:00
 blurb: "Study Archive"
