@@ -44,9 +44,10 @@ Bachelor in Software(Computer Science)
 
 ---
 <p align="center">
-<a href="https://ieeexplore.ieee.org/abstract/document/9952716">Towards accurate and ceratin Molecular Property Prediction</a> <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/9952716">Towards accurate and ceratin Molecular Property Prediction(ICTC2022)</a><br>
 KP Ham, Jeong noh Yonn, Sael Lee<br><br>
 
-Evidential Meta-Learning for Molecular Property Prediction(Submitted to Journal Biochemistry:Currently Under Review)<br> 
+Evidential Meta-Learning for Molecular Property Prediction<br>
+(Submitted to Journal Biochemistry:Currently Under Review)<br> 
 KP Ham, Sael Lee
 </p>
