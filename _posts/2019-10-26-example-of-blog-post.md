@@ -1,7 +1,7 @@
 ---
 layout: post
 draft : True
-title:  Archive
+title: Archive
 date: 2023-07-16 16:00:00
 blurb: Study Archive
 site_url : https://ultra-pharaoh-74e.notion.site/14d189ba10a74bc9839b730026195bd5?v=5be1bc4c6fc043bf9c8f092484472cde
