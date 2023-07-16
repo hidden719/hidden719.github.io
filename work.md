@@ -12,12 +12,12 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Toy project from Reinforcement Learning class. Reproduced DQN using Gymnasium cartpole. (<a href="">Code</a>)
+    description: Toy project from Reinforcement Learning class. Reproduced DQN using Gymnasium cartpole. (<a href="https://github.com/hidden719/dqn_cartpole">Code</a>)
   - title: Deep Learning with music data
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Toy project from Human Centered AI class. Reproduced different Machine Learning technique on music classfication problem(<a href="">Code</a>)
+    description: Toy project from Human Centered AI class. Reproduced different Machine Learning technique on music classfication problem(<a href="https://github.com/hidden719/audioclassfication">Code</a>)
 ---
 
 
