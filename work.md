@@ -8,7 +8,7 @@ items:
       src: /assets/img/work/water.png
       alt: water
     description: Toy project from Natural Langauge Processing class. Applied siamese network, prototypical network on text classfication task. You can look at the code (<a href="">Here</a>)
-  - title: DQN with
+  - title: DQN Cartpole
     image:
       src: /assets/img/work/sand.png
       alt: sand
