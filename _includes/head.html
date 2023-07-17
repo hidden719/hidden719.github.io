@@ -16,7 +16,7 @@
 
   {% assign page_description = "" %}
   {% if page.draft %}{% assign page_description = page_description | append: "[DRAFT] " %}{% endif %}
-  
+  {% assign site_url = "" %}
   {% if page.site_url %}{% assign page.site_url = site_url %}{% endif %}
   
   {% if page.blurb %}
