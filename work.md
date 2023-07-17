@@ -3,21 +3,21 @@ layout: work
 title: Projects
 slug: /Projects
 items:
-  - title: Few-shot learning on text clasification
+  - title: Evidential Meta-Learning for Molecular Property Prediction
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: Toy project from Natural Langauge Processing class. Applied siamese network, prototypical network on text classfication task. You can look at the code (<a href="">Here</a>)
+    description: Research on applying Evidential Neural Network and meta learning scheme to Molecular Property Prediction. Supervised molecular property prediction is widely recognized for its usefulness in various applications. However, challenges arise due to inadequate and imbalanced labeled data, making the learning process difficult. Additionally, ensuring the reliability of predictions is crucial, particularly in cost and safety-critical fields like drug discovery. EM3P2 utilizes an evidential graph isomorphism network classifier trained on multi-task molecular property datasets, incorporating a model-agnostic meta-learning (MAML) approach.  (<a href="https://github.com/Ajou-DILab/EM3P2">Code Link</a>)
   - title: DQN Cartpole
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Toy project from Reinforcement Learning class. Reproduced DQN using Gymnasium cartpole. (<a href="https://github.com/hidden719/dqn_cartpole">Code</a>)
+    description: Toy project from Reinforcement Learning class. Reproduced DQN using Gymnasium cartpole. DQN serves as an entry-level implementation for understanding RL and its application in Deep Neural Networks. Using the Cartpole environment provided by OpenAI Gym, we can observe how the agent learns to balance the pole by training it with the DQN algorithm. (<a href="https://github.com/hidden719/dqn_cartpole">Code Link</a>)
   - title: Deep Learning with music data
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Toy project from Human Centered AI class. Reproduced different Machine Learning technique on music classfication problem(<a href="https://github.com/hidden719/audioclassfication">Code</a>)
+    description: Toy project from Human Centered AI class. Time series data consists of observations made at specific time points, which can be analyzed to understand past dependencies and predict future patterns. Audio classification, particularly in the field of music, involves categorizing audio recordings based on factors like genre, instruments, and tempo. Traditional machine learning methods are used in this project to extract features from the audio data, such as Amplitude Envelope, RMS Energy, ZCR, Spectral Centroid, Bandwidth, MFCC, and chroma features. These features are then used to train models like RandomForestClassifier, SVM, and LogisticRegression to classify music and achieve accuracy in the classification task.(<a href="https://github.com/hidden719/audioclassfication">Code Link</a>)
 ---
 
 
