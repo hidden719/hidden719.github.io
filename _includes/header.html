@@ -14,18 +14,10 @@
           {% else %}
             {% assign page_link = "/" | append: page.name | downcase %}
           {% endif %}
-          {% if page.name == "Blog"%}
-          <a class="page-link" href="{{ https://ultra-pharaoh-74e.notion.site/14d189ba10a74bc9839b730026195bd5?v=5be1bc4c6fc043bf9c8f092484472cde }}">
-            {{ page.name }}
-          </a>
-          {% else %}
-          
           {% assign page_link = page_link | absolute_url %}
           <a class="page-link" href="{{ page_link }}">
             {{ page.name }}
           </a>
-          {% endif %}
-
         {% endfor %}
       </div>
     </nav>
