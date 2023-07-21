@@ -48,7 +48,7 @@ Bachelor in Software(Computer Science)
 KP Ham, Jeong noh Yonn, Sael Lee<br><br>
 
 Evidential Meta-Learning for Molecular Property Prediction[<a href="https://github.com/Ajou-DILab/EM3P2">Code</a>]<br>
-(Submitted to Journal Biochemistry:Currently Under Review)<br> 
+(Submitted to Journal Bioinformatics:Currently Under Review)<br> 
 KP Ham, Sael Lee
 
 </p>
