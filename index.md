@@ -8,7 +8,7 @@ profile_picture:
 <p>
 Hi! I'm Adam(KyungPyo) Ham.
 
-I recently completed my Master's degree in Artificial Intelligence at Ajou University and am now beginning my career as an ML Engineer. I have experience in diverse machine learning & deep learning problems, specializing in Meta-learning, Graph Neural Network, Evidential Neural Network for Molecular Property Prediction. I am passionate about exploring methodologies across domains, adapting them to solve unique challenges, and engaging in meaningful discussions. If you're looking to collaborate, require any assistance or talk about recent trends and methodolgies in AI, leave me an email. Let's connect and embark on a journey of knowledge, innovation, and delightful conversations!<br>
+I recently completed my Master's degree in Artificial Intelligence at Ajou University and am now beginning my career as Data Scientist. I have experience in diverse machine learning & deep learning problems, specializing in Meta-learning, Graph Neural Network, Evidential Neural Network for Molecular Property Prediction. I am passionate about exploring methodologies across domains, adapting them to solve unique challenges, and engaging in meaningful discussions. If you're looking to collaborate, require any assistance or talk about recent trends and methodolgies in AI, leave me an email. Let's connect and embark on a journey of knowledge, innovation, and delightful conversations!<br>
 </p>
 <p>
 Skills : Pytorch,Pytorch-geometric, Python, rdkit<br>
