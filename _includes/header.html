@@ -9,11 +9,6 @@
 
       <div class="menu">
         {% for page in site.header.pages %}
-          {% if page.slug == "/blog" %}
-          <a class="page-link" href="{https://ultra-pharaoh-74e.notion.site/Hammy-s-Blog-0e8ede0d7dd14113b090fbcfe1f98f4f?pvs=4}">
-            {{ page.name }}
-          </a>
-
           {% if page.slug and page.slug != "" and page.slug != nil %}
             {% assign page_link = page.slug %}
           {% else %}
