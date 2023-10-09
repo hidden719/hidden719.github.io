@@ -5,7 +5,9 @@
 
   {% assign page_is_article = false %}
   {% if page.layout == "post" %}{% assign page_is_article = true %}{% endif %}
-
+<!-- blog를 notion으로 연결-->
+  {% if page.layout == "blog" %} {% endif %}
+<!-- -->
   {% assign page_title = "" %}
   {% if page.draft %}{% assign page_title = page_title | append: "[DRAFT] " %}{% endif %}
   {% if page.title %}
