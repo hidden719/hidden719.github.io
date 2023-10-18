@@ -7,7 +7,9 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: Research on applying Evidential Neural Network and meta learning scheme to Molecular Property Prediction. Supervised molecular property prediction is widely recognized for its usefulness in various applications. However, challenges arise due to inadequate and imbalanced labeled data, making the learning process difficult. Additionally, ensuring the reliability of predictions is crucial, particularly in cost and safety-critical fields like drug discovery. EM3P2 utilizes an evidential graph isomorphism network classifier trained on multi-task molecular property datasets, incorporating a model-agnostic meta-learning (MAML) approach.  (<a href="https://github.com/Ajou-DILab/EM3P2">Code Link</a>)
+    description: Research on applying Evidential Neural Network and meta learning scheme to Molecular Property Prediction. Supervised molecular property prediction is widely recognized for its usefulness in various applications. However, challenges arise due to inadequate and imbalanced labeled data, making the learning process difficult. Additionally, ensuring the reliability of predictions is crucial, particularly in cost and safety-critical fields like drug discovery. EM3P2 utilizes an evidential graph isomorphism network classifier trained on multi-task molecular property datasets, incorporating a model-agnostic meta-learning (MAML) approach. 
+    (<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad604/7320005">Paper Link</a>)
+    (<a href="https://github.com/Ajou-DILab/EM3P2">Code Link</a>)
   - title: DQN Cartpole
     image:
       src: /assets/img/work/sand.png
