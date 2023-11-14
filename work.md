@@ -13,9 +13,9 @@ items:
       src: /assets/img/work/sand.png
       alt: sand
     description: Simple project applying LINK PREDICTION method using PYG on DACON job_recommendation dataset. There were a lot of things to consider.<br> 1. Building Node_representation of RESUME NODE and RECRUITMENT NODE from Tabular data. (used BERT model to get embedding of string feature)<br> 
-                       2.Building Heteregenous graph<br>
-                       3. Hetereogenous GNN <br>
-                       4. How to rank the links<br> Followed the (<a href="https://antoniolonga.github.io/Advanced_PyG_tutorials/index.html">PYG tutorial</a>) and was able to apply it on new data. (<a href="https://github.com/hidden719/dacon_jobrecommend">Code Link</a>)
+    2.Building Heteregenous graph<br>
+    3. Hetereogenous GNN <br>
+    4. How to rank the links<br> Followed the (<a href="https://antoniolonga.github.io/Advanced_PyG_tutorials/index.html">PYG tutorial</a>) and was able to apply it on new data. (<a href="https://github.com/hidden719/dacon_jobrecommend">Code Link</a>)
   - title: DQN Cartpole
     image:
       src: /assets/img/work/sand.png
