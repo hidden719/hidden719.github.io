@@ -7,15 +7,15 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: Research on applying Evidential Neural Network and meta learning scheme to Molecular Property Prediction. Supervised molecular property prediction is widely recognized for its usefulness in various applications. However, challenges arise due to inadequate and imbalanced labeled data, making the learning process difficult. Additionally, ensuring the reliability of predictions is crucial, particularly in cost and safety-critical fields like drug discovery. EM3P2 utilizes an evidential graph isomorphism network classifier trained on multi-task molecular property datasets, incorporating a model-agnostic meta-learning (MAML) approach.  (<a href="https://github.com/Ajou-DILab/EM3P2">Code Link</a>)
+    description: Research on applying (<a href="https://ultra-pharaoh-74e.notion.site/Evidential-Neural-Network-ENN-a8524b20cff44e90bce92c8cb68fa696">Evidential Neural Network</a>) and meta learning scheme to Molecular Property Prediction. Supervised molecular property prediction is widely recognized for its usefulness in various applications. However, challenges arise due to inadequate and imbalanced labeled data, making the learning process difficult. Additionally, ensuring the reliability of predictions is crucial, particularly in cost and safety-critical fields like drug discovery. EM3P2 utilizes an evidential graph isomorphism network classifier trained on multi-task molecular property datasets, incorporating a model-agnostic meta-learning (MAML) approach.  (<a href="https://github.com/Ajou-DILab/EM3P2">Code Link</a>)
   - title: Simple link-prediction in job-recommendation
     image:
       src: /assets/img/work/sand.png
       alt: sand
     description: Simple project applying LINK PREDICTION method using PYG on DACON job_recommendation dataset. There were a lot of things to consider.<br> 1. Building Node_representation of RESUME NODE and RECRUITMENT NODE from Tabular data. (used BERT model to get embedding of string feature)<br> 
-      2.Building Heteregenous graph<br>
-      3. Hetereogenous GNN <br>
-      4. How to rank the links<br> Followed the (<a href="https://antoniolonga.github.io/Advanced_PyG_tutorials/index.html">PYG tutorial</a>) and was able to apply it on new data. (<a href="https://github.com/hidden719/dacon_jobrecommend">Code Link</a>)
+              2.Building Heteregenous graph<br>
+              3. Hetereogenous GNN <br>
+              4. How to rank the links<br> Followed the (<a href="https://antoniolonga.github.io/Advanced_PyG_tutorials/index.html">PYG tutorial</a>) and was able to apply it on new data. (<a href="https://github.com/hidden719/dacon_jobrecommend">Code Link</a>)
   - title: DQN Cartpole
     image:
       src: /assets/img/work/sand.png
