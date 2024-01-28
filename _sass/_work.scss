@@ -10,3 +10,13 @@
   width: 100px;
   height: 100px;
 }
+
+
+.image-block {
+  flex: 0 0 auto; /* This prevents the image from stretching */
+  margin-right: 20px; /* Adjust this value as needed */
+}
+
+.text-block {
+  flex: 1; /* This allows the text block to expand and fill the remaining space */
+}
