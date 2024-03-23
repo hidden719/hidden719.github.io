@@ -1,22 +1,26 @@
----
-layout: archive
----
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
 
-{{ content }}
+  <body>
+    {% include header.html %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="home">
+          <img
+            src="{{ page.profile_picture.src | absolute_url }}"
+            alt="{{ page.profile_picture.alt }}"
+            class="profile-pic"
+          />
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+          {{ content }}
+        </div>
+      </div>
+    </div>
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
+    {% include footer.html %}
 
-{% include paginator.html %}
+    {% include foot.html %}
+  </body>
+</html>
