@@ -5,7 +5,7 @@ slug: /blog
 ---
 This page is mostly about my studies.
 
-Recently updated in Oct 2023
+Recently updated in March 2023
 
-Currently being update actively!
+Migrating to new blog soon!
 <br />
