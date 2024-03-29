@@ -14,13 +14,18 @@
           {% else %}
             {% assign page_link = "/" | append: page.name | downcase %}
           {% endif %}
-          {% if page.name == "blog" %}
+          {% if page.name == "Blog" %}
             {% assign page_link = "https://velog.io/@adam_ham/posts" %}
-          {% endif %}
+            <a class="page-link" href="{{ page_link }}">
+              {{ page.name }}
+            </a>
+          {% else %}
           {% assign page_link = page_link | absolute_url %}
           <a class="page-link" href="{{ page_link }}">
             {{ page.name }}
           </a>
+          {% endif %}
+
         {% endfor %}
       </div>
     </nav>
